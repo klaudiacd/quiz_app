@@ -1,0 +1,14 @@
+/home/klaud/Pulpit/europa_quiz/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/klaud/Pulpit/europa_quiz/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/klaud/Pulpit/europa_quiz/build/linux/x64/debug/CMakeFiles/install.dir
+/home/klaud/Pulpit/europa_quiz/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/klaud/Pulpit/europa_quiz/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/klaud/Pulpit/europa_quiz/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/klaud/Pulpit/europa_quiz/build/linux/x64/debug/CMakeFiles/europa_quiz.dir
+/home/klaud/Pulpit/europa_quiz/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/home/klaud/Pulpit/europa_quiz/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/klaud/Pulpit/europa_quiz/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/klaud/Pulpit/europa_quiz/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/klaud/Pulpit/europa_quiz/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/klaud/Pulpit/europa_quiz/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/klaud/Pulpit/europa_quiz/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
